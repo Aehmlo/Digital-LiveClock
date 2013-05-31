@@ -1,0 +1,9 @@
+Package: com.aehmlo.idhantadigitalliveclock
+Name: Digital LiveClock
+Depends: mobilesubstrate, firmware (>=6.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak for idhanta.
+Maintainer: Aehmlo Lxaitn
+Author: Aehmlo Lxaitn
+Section: Tweaks
